@@ -2,86 +2,582 @@
     "men": [
           {
             "image":["https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/10673544/2019/9/24/6b9c7688-7ca2-4d11-9e5b-a3745ecd8f761569310358973-The-Indian-Garage-Co-Men-Shirts-8481569310357131"],
-            "categories": "Men White & Teal Blue Slim Fit Striped Casual Shirt",
-            "price": "₹511",
+            "categories": "Casual Shirt",
+            "price":800,
             "brand": "The Indian Garage Co",
             "discount": "(69% OFF)",
             "color":"",
-            "rating":4.1
+            "rating":4.1,
+            "qunty":1,
+            "id":1
            }
            , {
-            "image":["https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/10673544/2019/9/24/6b9c7688-7ca2-4d11-9e5b-a3745ecd8f761569310358973-The-Indian-Garage-Co-Men-Shirts-8481569310357131"],
-            "categories": "Men White & Teal Blue Slim Fit Striped Casual Shirt",
-            "price": "₹511",
-            "brand": "The Indian Garage Co",
+            "image":["https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/6849354/2022/2/9/cc41bfc1-55f8-47df-a705-d5a05b286a871644388786288-Roadster-Men-Blue--Beige-Regular-Fit-Checked-Casual-Shirt-88-1.jpg"],
+            "categories": "Casual Shirt",
+            "price":400,
+            "brand": "Roadster",
             "discount": "(69% OFF)",
             "color":"red",
-            "rating":4.1
+            "rating":4.1,
+            "id":2
+           },
+           {
+            "image":["https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19818628/2022/9/6/ec27eee6-d613-4423-8e0f-007aea1603c31662468109188Shirts1.jpg"],
+            "categories": "Casual Shirt",
+            "price": 1000,
+            "brand": "The Indian Garage Co",
+            "discount": "(69% OFF)",
+            "color":"",
+            "rating":4.1,
+            "id":3
+
+           }, {
+            "image":["https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14572050/2022/2/3/f7390b3d-ae00-4cfa-92b2-e0c8ec36a1a11643873057427-Dennis-Lingo-Men-Blue-Slim-Fit-Windowpane-Checked-Casual-Shi-1.jpg"],
+            "categories": "Casual Shirt",
+            "price": 450,
+            "brand": "The Indian Garage Co",
+            "discount": "(69% OFF)",
+            "color":"",
+            "rating":4.1,
+            "id":4
+           }, {
+            "image":["https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2038071/2019/4/9/ace5c891-0717-485c-8080-9c37c5c759821554799993054-Roadster-Men-Black--White-Slim-Fit-Solid-Casual-Shirt-322155-1.jpg"],
+            "categories": "Casual Shirt",
+            "price":1500,
+            "brand": "Roadster",
+            "discount": "(69% OFF)",
+            "color":"",
+            "rating":4.1,
+            "id":5
+
+           }, {
+            "image":["https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/21947248/2023/2/11/5c45cab4-f0f9-4dee-ad8d-00899bc380831676133660907PowerlookMenGreenBoxyGinghamChecksCheckedCasualShirt5.jpg"],
+            "categories": "Casual Shirt",
+            "price":450,
+            "brand": "HIGHLANDER",
+            "discount": "(69% OFF)",
+            "color":"",
+            "rating":4.1,
+            "id":6
+           }, {
+            "image":["https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2347551/2019/12/3/fb88c67b-d735-48cc-8554-9374a95ba35b1575363237983-HIGHLANDER-Men-White--Light-Blue-Slim-Fit-Striped-Casual-Shi-1.jpg"],
+            "categories": "Casual Shirt",
+            "price":800,
+            "brand": "HIGHLANDER",
+            "discount": "(69% OFF)",
+            "color":"",
+            "rating":4.1,
+            "id":7
+           }, {
+            "image":["https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/1667044/2019/2/28/2781f021-536a-44ca-bc83-42c456bca95f1551335771557-Roadster-Men-Navy--Grey-Checked-Casual-Shirt-341551335769426-1.jpg"],
+            "categories": "Casual Shirt",
+            "price":1200,
+            "brand": "Roadster",
+            "discount": "(69% OFF)",
+            "color":"",
+            "rating":4.1,
+            "id":8
+           }, {
+            "image":["https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/7488102/2019/8/22/8002a744-0dad-4dbb-9481-cf0090134c3b1566454086786-Dennis-Lingo-Men-Pink-Slim-Fit-Solid-Casual-Shirt-9891566454-1.jpg"],
+            "categories": "Men White & Teal Blue Slim Fit Striped Casual Shirt",
+            "price":400,
+            "brand": "Wrong",
+            "discount": "(69% OFF)",
+            "color":"",
+            "rating":4.1,
+            "id":9
+           }, {
+            "image":["https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19140996/2022/7/16/6634490b-5122-47b9-b8d5-6883d4ecea2a1657972357555Shirts1.jpg"],
+            "categories": "Casual Shirt",
+            "price":2500,
+            "brand": "The Indian Garage Co",
+            "discount": "(69% OFF)",
+            "color":"",
+            "rating":4.1,
+            "id":10
+           },
+           {
+            "image":["https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/21020248/2023/3/16/cfa1b5d4-2203-4b0b-9c3f-1011b53e45c21678944155477-Being-Human-Men-Textured-Self-Design-Cropped-Fit-Mid-Rise-Pl-1.jpg"],
+            "categories": "Casual Shirt",
+            "price":4000,
+            "brand": "Being-Human",
+            "discount": "(69% OFF)",
+            "color":"",
+            "rating":3.1,
+            "qunty":1,
+            "id":11
+            
+           }
+           , {
+            "image":["https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/15745680/2022/9/26/a01056ae-d334-48af-ae41-718d45f2270b1664185317481HIGHLANDERMenOliveGreenSlimFitEasyWashCargosTrousers1.jpg"],
+            "categories": "Casual Shirt",
+            "price":600,
+            "brand": "Roadster",
+            "discount": "(69% OFF)",
+            "color":"red",
+            "rating":4.1,
+            "id":12
+           },
+           {
+            "image":["https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2290972/2018/5/5/11525515544459-Roadster-Men-Grey-Slim-Fit-Solid-Chinos-2351525515544256-1.jpg"],
+            "categories": "Chinos",
+            "price": 1000,
+            "brand": "The Indian Garage Co",
+            "discount": "(69% OFF)",
+            "color":"",
+            "rating":5,
+            "id":13
+
+           }, {
+            "image":["https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/22557812/2023/3/29/b3e5d478-8831-4802-8a07-152a9e63eb7b1680085652044GreyFormalTrouser1.jpg"],
+            "categories": "Casual Shirt",
+            "price":1500,
+            "brand": "The Indian Garage Co",
+            "discount": "(10% OFF)",
+            "color":"",
+            "rating":4.1,
+            "id":14
+           }, {
+            "image":["https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2290039/2022/7/13/9f725478-e4a1-4220-8e30-d157a7cf2b291657698446507HIGHLANDERMenBlackTaperedFitChinos1.jpg"],
+            "categories": "Chinos",
+            "price":3500,
+            "brand": "HIGHLANDER",
+            "discount": "(69% OFF)",
+            "color":"",
+            "rating":4.1,
+            "id":15
+
+           }, {
+            "image":["https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/22479242/2023/3/23/6ae5f05a-b220-4a2e-9919-ca92b23775d91679563915303PeterEnglandMenNavyBlueSlimFitTrousers1.jpg"],
+            "categories": "Casual Shirt",
+            "price":450,
+            "brand": "HIGHLANDER",
+            "discount": "(69% OFF)",
+            "color":"",
+            "rating":4.1,
+            "id":16
+           }, {
+            "image":["https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/3881074/2019/8/22/988836a1-a96e-40b8-b1a0-d63c45e168ce1566479264535-HIGHLANDER-Men-Olive-Green-Tapered-Fit-Solid-Chinos-80015664-1.jpg"],
+            "categories": "Casual Shirt",
+            "price":800,
+            "brand": "HIGHLANDER",
+            "discount": "(69% OFF)",
+            "color":"",
+            "rating":4.1,
+            "id":17
+           }, {
+            "image":["https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14737434/2021/12/28/9ae33213-8552-4ba2-9ab8-2d160c9910931640686138415-Mr-Bowerbird-Men-Trousers-7671640686137741-1.jpg"],
+            "categories": "Casual Shirt",
+            "price":1200,
+            "brand": "Roadster",
+            "discount": "(69% OFF)",
+            "color":"",
+            "rating":4.1,
+            "id":18
+           }, {
+            "image":["https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/21020260/2023/3/16/867f9c52-a359-48bb-8666-9f15ad0d87761678943595930-Being-Human-Men-Checked-Slim-Fit-Mid-Rise-Chinos-Trousers-95-1.jpg"],
+            "categories": "Men White & Teal Blue Slim Fit Striped Casual Shirt",
+            "price":400,
+            "brand": "Wrong",
+            "discount": "(69% OFF)",
+            "color":"",
+            "rating":4.1,
+            "id":19
+           }, {
+            "image":["https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2290045/2019/8/22/544b0ba8-2764-4c13-9412-4d7ff9e1b6691566479175182-HIGHLANDER-Men-Beige-Tapered-Fit-Solid-Chinos-20615664791739-1.jpg"],
+            "categories": "Casual Shirt",
+            "price":2500,
+            "brand": "The Indian Garage Co",
+            "discount": "(69% OFF)",
+            "color":"",
+            "rating":4.1,
+            "id":20
            },
            {
             "image":["https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/10673544/2019/9/24/6b9c7688-7ca2-4d11-9e5b-a3745ecd8f761569310358973-The-Indian-Garage-Co-Men-Shirts-8481569310357131"],
-            "categories": "Men White & Teal Blue Slim Fit Striped Casual Shirt",
-            "price": "₹511",
+            "categories": "Casual Shirt",
+            "price":800,
             "brand": "The Indian Garage Co",
             "discount": "(69% OFF)",
             "color":"",
-            "rating":4.1
+            "rating":4.1,
+            "qunty":1,
+            "id":1
+           }
+           , {
+            "image":["https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/6849354/2022/2/9/cc41bfc1-55f8-47df-a705-d5a05b286a871644388786288-Roadster-Men-Blue--Beige-Regular-Fit-Checked-Casual-Shirt-88-1.jpg"],
+            "categories": "Casual Shirt",
+            "price":400,
+            "brand": "Roadster",
+            "discount": "(69% OFF)",
+            "color":"red",
+            "rating":4.1,
+            "id":2
+           },
+           {
+            "image":["https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19818628/2022/9/6/ec27eee6-d613-4423-8e0f-007aea1603c31662468109188Shirts1.jpg"],
+            "categories": "Casual Shirt",
+            "price": 1000,
+            "brand": "The Indian Garage Co",
+            "discount": "(69% OFF)",
+            "color":"",
+            "rating":4.1,
+            "id":3
+
            }, {
-            "image":["https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/10673544/2019/9/24/6b9c7688-7ca2-4d11-9e5b-a3745ecd8f761569310358973-The-Indian-Garage-Co-Men-Shirts-8481569310357131"],
-            "categories": "Men White & Teal Blue Slim Fit Striped Casual Shirt",
-            "price": "₹511",
+            "image":["https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14572050/2022/2/3/f7390b3d-ae00-4cfa-92b2-e0c8ec36a1a11643873057427-Dennis-Lingo-Men-Blue-Slim-Fit-Windowpane-Checked-Casual-Shi-1.jpg"],
+            "categories": "Casual Shirt",
+            "price": 450,
             "brand": "The Indian Garage Co",
             "discount": "(69% OFF)",
             "color":"",
-            "rating":4.1
+            "rating":4.1,
+            "id":4
            }, {
-            "image":["https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/10673544/2019/9/24/6b9c7688-7ca2-4d11-9e5b-a3745ecd8f761569310358973-The-Indian-Garage-Co-Men-Shirts-8481569310357131"],
-            "categories": "Men White & Teal Blue Slim Fit Striped Casual Shirt",
-            "price": "₹511",
-            "brand": "The Indian Garage Co",
+            "image":["https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2038071/2019/4/9/ace5c891-0717-485c-8080-9c37c5c759821554799993054-Roadster-Men-Black--White-Slim-Fit-Solid-Casual-Shirt-322155-1.jpg"],
+            "categories": "Casual Shirt",
+            "price":1500,
+            "brand": "Roadster",
             "discount": "(69% OFF)",
             "color":"",
-            "rating":4.1
+            "rating":4.1,
+            "id":5
+
            }, {
-            "image":["https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/10673544/2019/9/24/6b9c7688-7ca2-4d11-9e5b-a3745ecd8f761569310358973-The-Indian-Garage-Co-Men-Shirts-8481569310357131"],
-            "categories": "Men White & Teal Blue Slim Fit Striped Casual Shirt",
-            "price": "₹511",
-            "brand": "The Indian Garage Co",
+            "image":["https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/21947248/2023/2/11/5c45cab4-f0f9-4dee-ad8d-00899bc380831676133660907PowerlookMenGreenBoxyGinghamChecksCheckedCasualShirt5.jpg"],
+            "categories": "Casual Shirt",
+            "price":450,
+            "brand": "HIGHLANDER",
             "discount": "(69% OFF)",
             "color":"",
-            "rating":4.1
+            "rating":4.1,
+            "id":6
            }, {
-            "image":["https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/10673544/2019/9/24/6b9c7688-7ca2-4d11-9e5b-a3745ecd8f761569310358973-The-Indian-Garage-Co-Men-Shirts-8481569310357131"],
-            "categories": "Men White & Teal Blue Slim Fit Striped Casual Shirt",
-            "price": "₹511",
-            "brand": "The Indian Garage Co",
+            "image":["https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2347551/2019/12/3/fb88c67b-d735-48cc-8554-9374a95ba35b1575363237983-HIGHLANDER-Men-White--Light-Blue-Slim-Fit-Striped-Casual-Shi-1.jpg"],
+            "categories": "Casual Shirt",
+            "price":800,
+            "brand": "HIGHLANDER",
             "discount": "(69% OFF)",
             "color":"",
-            "rating":4.1
+            "rating":4.1,
+            "id":7
            }, {
-            "image":["https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/10673544/2019/9/24/6b9c7688-7ca2-4d11-9e5b-a3745ecd8f761569310358973-The-Indian-Garage-Co-Men-Shirts-8481569310357131"],
-            "categories": "Men White & Teal Blue Slim Fit Striped Casual Shirt",
-            "price": "₹511",
-            "brand": "The Indian Garage Co",
+            "image":["https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/1667044/2019/2/28/2781f021-536a-44ca-bc83-42c456bca95f1551335771557-Roadster-Men-Navy--Grey-Checked-Casual-Shirt-341551335769426-1.jpg"],
+            "categories": "Casual Shirt",
+            "price":1200,
+            "brand": "Roadster",
             "discount": "(69% OFF)",
             "color":"",
-            "rating":4.1
+            "rating":4.1,
+            "id":8
            }, {
-            "image":["https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/10673544/2019/9/24/6b9c7688-7ca2-4d11-9e5b-a3745ecd8f761569310358973-The-Indian-Garage-Co-Men-Shirts-8481569310357131"],
+            "image":["https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/7488102/2019/8/22/8002a744-0dad-4dbb-9481-cf0090134c3b1566454086786-Dennis-Lingo-Men-Pink-Slim-Fit-Solid-Casual-Shirt-9891566454-1.jpg"],
             "categories": "Men White & Teal Blue Slim Fit Striped Casual Shirt",
-            "price": "₹511",
-            "brand": "The Indian Garage Co",
+            "price":400,
+            "brand": "Wrong",
             "discount": "(69% OFF)",
             "color":"",
-            "rating":4.1
+            "rating":4.1,
+            "id":9
            }, {
-            "image":["https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/10673544/2019/9/24/6b9c7688-7ca2-4d11-9e5b-a3745ecd8f761569310358973-The-Indian-Garage-Co-Men-Shirts-8481569310357131"],
-            "categories": "Men White & Teal Blue Slim Fit Striped Casual Shirt",
-            "price": "₹511",
+            "image":["https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19140996/2022/7/16/6634490b-5122-47b9-b8d5-6883d4ecea2a1657972357555Shirts1.jpg"],
+            "categories": "Casual Shirt",
+            "price":2500,
             "brand": "The Indian Garage Co",
             "discount": "(69% OFF)",
             "color":"",
-            "rating":4.1
+            "rating":4.1,
+            "id":10
+           },
+           {
+            "image":["https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/21020248/2023/3/16/cfa1b5d4-2203-4b0b-9c3f-1011b53e45c21678944155477-Being-Human-Men-Textured-Self-Design-Cropped-Fit-Mid-Rise-Pl-1.jpg"],
+            "categories": "Casual Shirt",
+            "price":4000,
+            "brand": "Being-Human",
+            "discount": "(69% OFF)",
+            "color":"",
+            "rating":3.1,
+            "qunty":1,
+            "id":11
+            
+           }
+           , {
+            "image":["https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/15745680/2022/9/26/a01056ae-d334-48af-ae41-718d45f2270b1664185317481HIGHLANDERMenOliveGreenSlimFitEasyWashCargosTrousers1.jpg"],
+            "categories": "Casual Shirt",
+            "price":600,
+            "brand": "Roadster",
+            "discount": "(69% OFF)",
+            "color":"red",
+            "rating":4.1,
+            "id":12
+           },
+           {
+            "image":["https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2290972/2018/5/5/11525515544459-Roadster-Men-Grey-Slim-Fit-Solid-Chinos-2351525515544256-1.jpg"],
+            "categories": "Chinos",
+            "price": 1000,
+            "brand": "The Indian Garage Co",
+            "discount": "(69% OFF)",
+            "color":"",
+            "rating":5,
+            "id":13
+
+           }, {
+            "image":["https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/22557812/2023/3/29/b3e5d478-8831-4802-8a07-152a9e63eb7b1680085652044GreyFormalTrouser1.jpg"],
+            "categories": "Casual Shirt",
+            "price":1500,
+            "brand": "The Indian Garage Co",
+            "discount": "(10% OFF)",
+            "color":"",
+            "rating":4.1,
+            "id":14
+           }, {
+            "image":["https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2290039/2022/7/13/9f725478-e4a1-4220-8e30-d157a7cf2b291657698446507HIGHLANDERMenBlackTaperedFitChinos1.jpg"],
+            "categories": "Chinos",
+            "price":3500,
+            "brand": "HIGHLANDER",
+            "discount": "(69% OFF)",
+            "color":"",
+            "rating":4.1,
+            "id":15
+
+           }, {
+            "image":["https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/22479242/2023/3/23/6ae5f05a-b220-4a2e-9919-ca92b23775d91679563915303PeterEnglandMenNavyBlueSlimFitTrousers1.jpg"],
+            "categories": "Casual Shirt",
+            "price":450,
+            "brand": "HIGHLANDER",
+            "discount": "(69% OFF)",
+            "color":"",
+            "rating":4.1,
+            "id":16
+           }, {
+            "image":["https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/3881074/2019/8/22/988836a1-a96e-40b8-b1a0-d63c45e168ce1566479264535-HIGHLANDER-Men-Olive-Green-Tapered-Fit-Solid-Chinos-80015664-1.jpg"],
+            "categories": "Casual Shirt",
+            "price":800,
+            "brand": "HIGHLANDER",
+            "discount": "(69% OFF)",
+            "color":"",
+            "rating":4.1,
+            "id":17
+           }, {
+            "image":["https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14737434/2021/12/28/9ae33213-8552-4ba2-9ab8-2d160c9910931640686138415-Mr-Bowerbird-Men-Trousers-7671640686137741-1.jpg"],
+            "categories": "Casual Shirt",
+            "price":1200,
+            "brand": "Roadster",
+            "discount": "(69% OFF)",
+            "color":"",
+            "rating":4.1,
+            "id":18
+           }, {
+            "image":["https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/21020260/2023/3/16/867f9c52-a359-48bb-8666-9f15ad0d87761678943595930-Being-Human-Men-Checked-Slim-Fit-Mid-Rise-Chinos-Trousers-95-1.jpg"],
+            "categories": "Men White & Teal Blue Slim Fit Striped Casual Shirt",
+            "price":400,
+            "brand": "Wrong",
+            "discount": "(69% OFF)",
+            "color":"",
+            "rating":4.1,
+            "id":19
+           }, {
+            "image":["https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2290045/2019/8/22/544b0ba8-2764-4c13-9412-4d7ff9e1b6691566479175182-HIGHLANDER-Men-Beige-Tapered-Fit-Solid-Chinos-20615664791739-1.jpg"],
+            "categories": "Casual Shirt",
+            "price":2500,
+            "brand": "The Indian Garage Co",
+            "discount": "(69% OFF)",
+            "color":"",
+            "rating":4.1,
+            "id":20
+           },
+           {
+            "image":["https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/10673544/2019/9/24/6b9c7688-7ca2-4d11-9e5b-a3745ecd8f761569310358973-The-Indian-Garage-Co-Men-Shirts-8481569310357131"],
+            "categories": "Casual Shirt",
+            "price":800,
+            "brand": "The Indian Garage Co",
+            "discount": "(69% OFF)",
+            "color":"",
+            "rating":4.1,
+            "qunty":1,
+            "id":1
+           }
+           , {
+            "image":["https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/6849354/2022/2/9/cc41bfc1-55f8-47df-a705-d5a05b286a871644388786288-Roadster-Men-Blue--Beige-Regular-Fit-Checked-Casual-Shirt-88-1.jpg"],
+            "categories": "Casual Shirt",
+            "price":400,
+            "brand": "Roadster",
+            "discount": "(69% OFF)",
+            "color":"red",
+            "rating":4.1,
+            "id":2
+           },
+           {
+            "image":["https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19818628/2022/9/6/ec27eee6-d613-4423-8e0f-007aea1603c31662468109188Shirts1.jpg"],
+            "categories": "Casual Shirt",
+            "price": 1000,
+            "brand": "The Indian Garage Co",
+            "discount": "(69% OFF)",
+            "color":"",
+            "rating":4.1,
+            "id":3
+
+           }, {
+            "image":["https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14572050/2022/2/3/f7390b3d-ae00-4cfa-92b2-e0c8ec36a1a11643873057427-Dennis-Lingo-Men-Blue-Slim-Fit-Windowpane-Checked-Casual-Shi-1.jpg"],
+            "categories": "Casual Shirt",
+            "price": 450,
+            "brand": "The Indian Garage Co",
+            "discount": "(69% OFF)",
+            "color":"",
+            "rating":4.1,
+            "id":4
+           }, {
+            "image":["https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2038071/2019/4/9/ace5c891-0717-485c-8080-9c37c5c759821554799993054-Roadster-Men-Black--White-Slim-Fit-Solid-Casual-Shirt-322155-1.jpg"],
+            "categories": "Casual Shirt",
+            "price":1500,
+            "brand": "Roadster",
+            "discount": "(69% OFF)",
+            "color":"",
+            "rating":4.1,
+            "id":5
+
+           }, {
+            "image":["https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/21947248/2023/2/11/5c45cab4-f0f9-4dee-ad8d-00899bc380831676133660907PowerlookMenGreenBoxyGinghamChecksCheckedCasualShirt5.jpg"],
+            "categories": "Casual Shirt",
+            "price":450,
+            "brand": "HIGHLANDER",
+            "discount": "(69% OFF)",
+            "color":"",
+            "rating":4.1,
+            "id":6
+           }, {
+            "image":["https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2347551/2019/12/3/fb88c67b-d735-48cc-8554-9374a95ba35b1575363237983-HIGHLANDER-Men-White--Light-Blue-Slim-Fit-Striped-Casual-Shi-1.jpg"],
+            "categories": "Casual Shirt",
+            "price":800,
+            "brand": "HIGHLANDER",
+            "discount": "(69% OFF)",
+            "color":"",
+            "rating":4.1,
+            "id":7
+           }, {
+            "image":["https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/1667044/2019/2/28/2781f021-536a-44ca-bc83-42c456bca95f1551335771557-Roadster-Men-Navy--Grey-Checked-Casual-Shirt-341551335769426-1.jpg"],
+            "categories": "Casual Shirt",
+            "price":1200,
+            "brand": "Roadster",
+            "discount": "(69% OFF)",
+            "color":"",
+            "rating":4.1,
+            "id":8
+           }, {
+            "image":["https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/7488102/2019/8/22/8002a744-0dad-4dbb-9481-cf0090134c3b1566454086786-Dennis-Lingo-Men-Pink-Slim-Fit-Solid-Casual-Shirt-9891566454-1.jpg"],
+            "categories": "Men White & Teal Blue Slim Fit Striped Casual Shirt",
+            "price":400,
+            "brand": "Wrong",
+            "discount": "(69% OFF)",
+            "color":"",
+            "rating":4.1,
+            "id":9
+           }, {
+            "image":["https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19140996/2022/7/16/6634490b-5122-47b9-b8d5-6883d4ecea2a1657972357555Shirts1.jpg"],
+            "categories": "Casual Shirt",
+            "price":2500,
+            "brand": "The Indian Garage Co",
+            "discount": "(69% OFF)",
+            "color":"",
+            "rating":4.1,
+            "id":10
+           },
+           {
+            "image":["https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/21020248/2023/3/16/cfa1b5d4-2203-4b0b-9c3f-1011b53e45c21678944155477-Being-Human-Men-Textured-Self-Design-Cropped-Fit-Mid-Rise-Pl-1.jpg"],
+            "categories": "Casual Shirt",
+            "price":4000,
+            "brand": "Being-Human",
+            "discount": "(69% OFF)",
+            "color":"",
+            "rating":3.1,
+            "qunty":1,
+            "id":11
+            
+           }
+           , {
+            "image":["https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/15745680/2022/9/26/a01056ae-d334-48af-ae41-718d45f2270b1664185317481HIGHLANDERMenOliveGreenSlimFitEasyWashCargosTrousers1.jpg"],
+            "categories": "Casual Shirt",
+            "price":600,
+            "brand": "Roadster",
+            "discount": "(69% OFF)",
+            "color":"red",
+            "rating":4.1,
+            "id":12
+           },
+           {
+            "image":["https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2290972/2018/5/5/11525515544459-Roadster-Men-Grey-Slim-Fit-Solid-Chinos-2351525515544256-1.jpg"],
+            "categories": "Chinos",
+            "price": 1000,
+            "brand": "The Indian Garage Co",
+            "discount": "(69% OFF)",
+            "color":"",
+            "rating":5,
+            "id":13
+
+           }, {
+            "image":["https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/22557812/2023/3/29/b3e5d478-8831-4802-8a07-152a9e63eb7b1680085652044GreyFormalTrouser1.jpg"],
+            "categories": "Casual Shirt",
+            "price":1500,
+            "brand": "The Indian Garage Co",
+            "discount": "(10% OFF)",
+            "color":"",
+            "rating":4.1,
+            "id":14
+           }, {
+            "image":["https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2290039/2022/7/13/9f725478-e4a1-4220-8e30-d157a7cf2b291657698446507HIGHLANDERMenBlackTaperedFitChinos1.jpg"],
+            "categories": "Chinos",
+            "price":3500,
+            "brand": "HIGHLANDER",
+            "discount": "(69% OFF)",
+            "color":"",
+            "rating":4.1,
+            "id":15
+
+           }, {
+            "image":["https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/22479242/2023/3/23/6ae5f05a-b220-4a2e-9919-ca92b23775d91679563915303PeterEnglandMenNavyBlueSlimFitTrousers1.jpg"],
+            "categories": "Casual Shirt",
+            "price":450,
+            "brand": "HIGHLANDER",
+            "discount": "(69% OFF)",
+            "color":"",
+            "rating":4.1,
+            "id":16
+           }, {
+            "image":["https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/3881074/2019/8/22/988836a1-a96e-40b8-b1a0-d63c45e168ce1566479264535-HIGHLANDER-Men-Olive-Green-Tapered-Fit-Solid-Chinos-80015664-1.jpg"],
+            "categories": "Casual Shirt",
+            "price":800,
+            "brand": "HIGHLANDER",
+            "discount": "(69% OFF)",
+            "color":"",
+            "rating":4.1,
+            "id":17
+           }, {
+            "image":["https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14737434/2021/12/28/9ae33213-8552-4ba2-9ab8-2d160c9910931640686138415-Mr-Bowerbird-Men-Trousers-7671640686137741-1.jpg"],
+            "categories": "Casual Shirt",
+            "price":1200,
+            "brand": "Roadster",
+            "discount": "(69% OFF)",
+            "color":"",
+            "rating":4.1,
+            "id":18
+           }, {
+            "image":["https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/21020260/2023/3/16/867f9c52-a359-48bb-8666-9f15ad0d87761678943595930-Being-Human-Men-Checked-Slim-Fit-Mid-Rise-Chinos-Trousers-95-1.jpg"],
+            "categories": "Men White & Teal Blue Slim Fit Striped Casual Shirt",
+            "price":400,
+            "brand": "Wrong",
+            "discount": "(69% OFF)",
+            "color":"",
+            "rating":4.1,
+            "id":19
+           }, {
+            "image":["https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2290045/2019/8/22/544b0ba8-2764-4c13-9412-4d7ff9e1b6691566479175182-HIGHLANDER-Men-Beige-Tapered-Fit-Solid-Chinos-20615664791739-1.jpg"],
+            "categories": "Casual Shirt",
+            "price":2500,
+            "brand": "The Indian Garage Co",
+            "discount": "(69% OFF)",
+            "color":"",
+            "rating":4.1,
+            "id":20
            }
         
     ],
