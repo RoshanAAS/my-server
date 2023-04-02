@@ -1,14 +1,88 @@
 {
     "men": [
-        {
-            "id":1,
-            "title":"balck shirt",
-            "brand":"Roadstar",
-            "price":456,
-            "color":"Blue",
-            "image":["jdcdjsnckd","ajsncjksnc","ajsncjsnc","hjscjhsjcdsjcjds"]
-
-        }
+          {
+            "image":["https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/10673544/2019/9/24/6b9c7688-7ca2-4d11-9e5b-a3745ecd8f761569310358973-The-Indian-Garage-Co-Men-Shirts-8481569310357131"],
+            "categories": "Men White & Teal Blue Slim Fit Striped Casual Shirt",
+            "price": "₹511",
+            "brand": "The Indian Garage Co",
+            "discount": "(69% OFF)",
+            "color":"",
+            "rating":4.1
+           }
+           , {
+            "image":["https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/10673544/2019/9/24/6b9c7688-7ca2-4d11-9e5b-a3745ecd8f761569310358973-The-Indian-Garage-Co-Men-Shirts-8481569310357131"],
+            "categories": "Men White & Teal Blue Slim Fit Striped Casual Shirt",
+            "price": "₹511",
+            "brand": "The Indian Garage Co",
+            "discount": "(69% OFF)",
+            "color":"",
+            "rating":4.1
+           },
+           {
+            "image":["https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/10673544/2019/9/24/6b9c7688-7ca2-4d11-9e5b-a3745ecd8f761569310358973-The-Indian-Garage-Co-Men-Shirts-8481569310357131"],
+            "categories": "Men White & Teal Blue Slim Fit Striped Casual Shirt",
+            "price": "₹511",
+            "brand": "The Indian Garage Co",
+            "discount": "(69% OFF)",
+            "color":"",
+            "rating":4.1
+           }, {
+            "image":["https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/10673544/2019/9/24/6b9c7688-7ca2-4d11-9e5b-a3745ecd8f761569310358973-The-Indian-Garage-Co-Men-Shirts-8481569310357131"],
+            "categories": "Men White & Teal Blue Slim Fit Striped Casual Shirt",
+            "price": "₹511",
+            "brand": "The Indian Garage Co",
+            "discount": "(69% OFF)",
+            "color":"",
+            "rating":4.1
+           }, {
+            "image":["https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/10673544/2019/9/24/6b9c7688-7ca2-4d11-9e5b-a3745ecd8f761569310358973-The-Indian-Garage-Co-Men-Shirts-8481569310357131"],
+            "categories": "Men White & Teal Blue Slim Fit Striped Casual Shirt",
+            "price": "₹511",
+            "brand": "The Indian Garage Co",
+            "discount": "(69% OFF)",
+            "color":"",
+            "rating":4.1
+           }, {
+            "image":["https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/10673544/2019/9/24/6b9c7688-7ca2-4d11-9e5b-a3745ecd8f761569310358973-The-Indian-Garage-Co-Men-Shirts-8481569310357131"],
+            "categories": "Men White & Teal Blue Slim Fit Striped Casual Shirt",
+            "price": "₹511",
+            "brand": "The Indian Garage Co",
+            "discount": "(69% OFF)",
+            "color":"",
+            "rating":4.1
+           }, {
+            "image":["https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/10673544/2019/9/24/6b9c7688-7ca2-4d11-9e5b-a3745ecd8f761569310358973-The-Indian-Garage-Co-Men-Shirts-8481569310357131"],
+            "categories": "Men White & Teal Blue Slim Fit Striped Casual Shirt",
+            "price": "₹511",
+            "brand": "The Indian Garage Co",
+            "discount": "(69% OFF)",
+            "color":"",
+            "rating":4.1
+           }, {
+            "image":["https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/10673544/2019/9/24/6b9c7688-7ca2-4d11-9e5b-a3745ecd8f761569310358973-The-Indian-Garage-Co-Men-Shirts-8481569310357131"],
+            "categories": "Men White & Teal Blue Slim Fit Striped Casual Shirt",
+            "price": "₹511",
+            "brand": "The Indian Garage Co",
+            "discount": "(69% OFF)",
+            "color":"",
+            "rating":4.1
+           }, {
+            "image":["https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/10673544/2019/9/24/6b9c7688-7ca2-4d11-9e5b-a3745ecd8f761569310358973-The-Indian-Garage-Co-Men-Shirts-8481569310357131"],
+            "categories": "Men White & Teal Blue Slim Fit Striped Casual Shirt",
+            "price": "₹511",
+            "brand": "The Indian Garage Co",
+            "discount": "(69% OFF)",
+            "color":"",
+            "rating":4.1
+           }, {
+            "image":["https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/10673544/2019/9/24/6b9c7688-7ca2-4d11-9e5b-a3745ecd8f761569310358973-The-Indian-Garage-Co-Men-Shirts-8481569310357131"],
+            "categories": "Men White & Teal Blue Slim Fit Striped Casual Shirt",
+            "price": "₹511",
+            "brand": "The Indian Garage Co",
+            "discount": "(69% OFF)",
+            "color":"",
+            "rating":4.1
+           }
         
     ],
     "women": [
@@ -20,53 +94,8 @@
             "color":"Blue"
 
         }
-    ],
-    "transactions": [
-
-    ],
-    "data":[
-        {
-            "id":1,
-            "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-            "book_name": "Harry Potter 3",
-            "author": "J. K. Rowling",
-            "genre": "fiction",
-            "edition": "2021",
-            "publisher": "Bloomsbury",
-            "cost": 1000,
-            "borrowed": false
-            },{
-                "id":2,
-                "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-                "book_name": "Harry Potter 4",
-                "author": "J. K. Rowling",
-                "genre": "fiction",
-                "edition": "2021",
-                "publisher": "Bloomsbury",
-                "cost": 1499,
-                "borrowed": false
-                },{
-                    "id":3,
-                    "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-                    "book_name": "Harry Potter 2",
-                    "author": "J. K. Rowling",
-                    "genre": "fiction",
-                    "edition": "2021",
-                    "publisher": "Bloomsbury",
-                    "cost": 1299,
-                    "borrowed": false
-                    },{
-                        "id":4,
-                        "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-                        "book_name": "Harry Potter ",
-                        "author": "J. K. Rowling",
-                        "genre": "fiction",
-                        "edition": "2021",
-                        "publisher": "Bloomsbury",
-                        "cost": 1999,
-                        "borrowed": false
-                        }
-]
+    ]
+   
     
 
 }
