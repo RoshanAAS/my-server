@@ -192,17 +192,6 @@
             "color":"",
             "rating":4.1,
             "id":20
-           },
-           {
-            "image":["https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/21918576/2023/2/10/1e3c86c5-53e5-4337-beb9-90e5beb2b5561676013201871Shirts1.jpg"],
-            "categories": "Casual Shirt",
-            "price":800,
-            "brand": "The Indian Garage Co",
-            "discount": "(69% OFF)",
-            "color":"",
-            "rating":4.1,
-            "qunty":1,
-            "id":1
            }
            , {
             "image":["https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/6849354/2022/2/9/cc41bfc1-55f8-47df-a705-d5a05b286a871644388786288-Roadster-Men-Blue--Beige-Regular-Fit-Checked-Casual-Shirt-88-1.jpg"],
